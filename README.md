@@ -105,9 +105,11 @@ This prototype proves that a **human-friendly review system is possible**, and t
 
 ---
 
-## 🎥 **Demo Video**
-▶️ *Mobile Walkthrough (local video file)*  
-> [Download / View Demo](assets/videos/Screenrecording_20251227_180705.mp4)
+## 🎥 **DEMO VIDEO**
+🚀 Experience the walkthrough of ProductReviewDiscovery in action:
+
+👉 **[CLICK HERE TO WATCH THE DEMO VIDEO](https://drive.google.com/file/d/16R0WrJoQ1dlbdTMIaNi6PirD9bkLFJ62/view?usp=drive_link)**
+
 
 ---
 
