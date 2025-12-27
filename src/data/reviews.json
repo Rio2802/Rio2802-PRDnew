@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "platform": "Amazon",
+        "productId": "iphone15",
+        "reviewer": "Ravi S",
+        "rating": 4.5,
+        "verified": true,
+        "text": "Camera is fantastic but heats during gaming.",
+        "timestamp": "2024-12-09"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "platformFilter": [
+        "Amazon",
+        "Flipkart"
+    ],
+    "ratingMinimum": 4.0,
+    "categoriesPreferred": [
+        "Electronics"
+    ]
+}

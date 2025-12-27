@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphones Hub",
+        "category": "Electronics",
+        "platforms": [
+            "Amazon",
+            "Flipkart"
+        ],
+        "members": 12400,
+        "products": [
+            {
+                "id": "iphone15",
+                "name": "iPhone 15"
+            },
+            {
+                "id": "s23ultra",
+                "name": "Samsung S23 Ultra"
+            }
+        ]
+    }
+]
