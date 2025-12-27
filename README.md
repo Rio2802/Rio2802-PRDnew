@@ -70,15 +70,12 @@ Combined with generous whitespace and low-contrast surfaces, the interface acts 
 ### 🧩 Where This Research Can Go Next
 If scaled, this concept can evolve into a full ecosystem:
 
-| 🚧 Phase      |   Feature                   | Purpose                          |
-----------------------------------------------------------------------------------
-| 🚧 Phase 2    | User Profiles               | Build trust & reputation mapping |
-----------------------------------------------------------------------------------
-| 🧠 Phase 3    | AI Review Summaries         | Instant credibility scanning     |
-----------------------------------------------------------------------------------
-| 🗳️ Phase 4    | Voting / Credibility Scores | Crowd-evaluated trust            |
-----------------------------------------------------------------------------------
-| ☁️ Phase 5    | Firebase / Backend          | Real data ingestion              |
+| Phase       | Feature                     | Purpose                          |
+|-------------|-----------------------------|----------------------------------|
+| 🚧 Phase 2  | User Profiles               | Build trust & reputation mapping |
+| 🧠 Phase 3  | AI Review Summaries         | Instant credibility scanning     |
+| 🗳️ Phase 4 | Voting / Credibility Scores  | Crowd-evaluated trust            |
+| ☁️ Phase 5 | Firebase / Backend           | Real data ingestion              |
 
 This prototype proves that a **human-friendly review system is possible**, and that clarity can be engineered.
 
